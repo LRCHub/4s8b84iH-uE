@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The LOVE SONG",
+  "base_artist": "LM.C",
+  "createdAt": "2026-03-16T14:15:38.221929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/01_The_Love_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B.A.N. (The Love Song)",
+      "artist": "David Banner",
+      "has_synced": true,
+      "path": "select/02_B.A.N._(The_Love_Song)_David_Banner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Died Pretty",
+      "has_synced": false,
+      "path": "select/03_The_Love_Song_Died_Pretty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/04_The_Love_Song_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Jeff Bates",
+      "has_synced": true,
+      "path": "select/05_The_Love_Song_Jeff_Bates.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Da Bush Babees",
+      "has_synced": true,
+      "path": "select/06_The_Love_Song_Da_Bush_Babees.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Fair Warning",
+      "has_synced": true,
+      "path": "select/07_The_Love_Song_Fair_Warning.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/08_The_Love_Song_Marilyn_Manson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Kill the Love Song",
+      "artist": "pinocchioP",
+      "has_synced": false,
+      "path": "select/09_Don't_Kill_the_Love_Song_pinocchioP.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Kill the Love Song",
+      "artist": "PinocchioP/Hatsune Miku",
+      "has_synced": false,
+      "path": "select/10_Don't_Kill_the_Love_Song_PinocchioP_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "King Missile",
+      "has_synced": false,
+      "path": "select/11_The_Love_Song_King_Missile.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/12_The_Love_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "the love song",
+      "artist": "eli.",
+      "has_synced": true,
+      "path": "select/13_the_love_song_eli..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Love Song (Album Version)",
+      "artist": "Donovan",
+      "has_synced": false,
+      "path": "select/14_The_Love_Song_(Album_Version)_Donovan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The LOVE SONG",
+      "artist": "LM.C",
+      "has_synced": false,
+      "path": "select/pl_01_The_LOVE_SONG_LM.C.txt"
+    }
+  ]
+}
